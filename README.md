@@ -1,6 +1,6 @@
 Nobeliumでによる日記システム
 
-diary.sassy-developer.dev/
+https://diary.sassy-developer.dev/
 
 <hr>
 
